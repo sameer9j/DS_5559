@@ -14,4 +14,6 @@ Final Project for DS 5559 - Exploratory Text Analytics
   - ETA - Prediction v1.0.ipynb: Contains a classification model, which uses features such as char n-gram, word n-gram, NLTK sentiment, Latent Dirichlet Allocation, with Random Forest and XGBoost algorithms 
 
 #### Datasets
-  - sample3 (1).csv.zip: Contains sampled dataset of 10k bloggers
+  - sample3 (1).csv.zip: Contains processed token table for 10k sample blog posts from F4 processing
+  - sampleorig.csv: Contains sampled unprocessed corpus of 10k blog posts.  Also includes some author metadata.
+  - vocab.csv: Contains vocab table from F4 processing
