@@ -17,3 +17,4 @@ Final Project for DS 5559 - Exploratory Text Analytics
   - sample3 (1).csv.zip: Contains processed token table for 10k sample blog posts from F4 processing
   - sampleorig.csv: Contains sampled unprocessed corpus of 10k blog posts.  Also includes some author metadata.
   - vocab.csv: Contains vocab table from F4 processing
+  - Note: we attempted to write the tfidf table to csv, but the file was over 11gb and could not be finished due to the size of our AWS instance.  If necessary we can try again to generate this csv, but for now, we are hoping the printed out head of the tfidf table in the GenderF4 notebook will suffice.
