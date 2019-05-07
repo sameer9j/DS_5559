@@ -12,6 +12,7 @@ Final Project for DS 5559 - Exploratory Text Analytics
   - GenderF4-Final.ipynb: Contains the processing required to create the sample dataset used for processing i.e. F4 compliant dataset. 
   - Clustering and Interactive Visualization-Final.ipyb: Contains visualization of dataset using k-means clustering technique and an interactive Function for K means Clustering.
   - ETA - Prediction v1.0.ipynb: Contains a classification model, which uses features such as char n-gram, word n-gram, NLTK sentiment, Latent Dirichlet Allocation, with Random Forest and XGBoost algorithms 
+  - Topic Modeling - Only Nouns.ipynb: Contains topic models using only nouns
 
 #### Datasets
   - sample3 (1).csv.zip: Contains processed token table for 10k sample blog posts from F4 processing
